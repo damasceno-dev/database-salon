@@ -5,6 +5,7 @@
 
 ### Files description:
 * commands: file with the initial SQL commands to set the database, tables and columns with the tests passing made by the student
+* examples: file provided by fcc with examples of the stdout made by the program
 * salon.sh: program made by the student
 * salon.sql: image of the database created after all tests passed.
 
